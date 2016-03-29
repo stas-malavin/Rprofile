@@ -1,5 +1,5 @@
 # Rprofile
-My small workaround for Linux console R
+.Rprofile for Linux console R
 
 ### Main features:
 1. Saves everything (including libraries attached) in a file called "[DIRNAME].RProj" and history in a file called "[DIRNAME].RHist".
